@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashLandingGamePrototype-master.Plugins", "CrashLandingGamePrototype-master.Plugins.csproj", "{7DA3E131-0099-1ADF-9DBE-28C8DF3E1BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashLandingGamePrototype-master", "CrashLandingGamePrototype-master.csproj", "{928B76A1-1C20-B20A-1830-0859B1473DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PackageManagerUI.Editor", "Unity.PackageManagerUI.Editor.csproj", "{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashLandingGamePrototype-master.Editor", "CrashLandingGamePrototype-master.Editor.csproj", "{CF616587-2204-7FDC-60C5-0C6BF2C37FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashLandingGamePrototype-master.Editor.Plugins", "CrashLandingGamePrototype-master.Editor.Plugins.csproj", "{D36A49DD-F3D4-562E-A1CB-6ED2DCD97241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.StandardEvents", "UnityEditor.StandardEvents.csproj", "{6800202F-4402-D405-F8CB-03DC7BD78B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA3E131-0099-1ADF-9DBE-28C8DF3E1BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA3E131-0099-1ADF-9DBE-28C8DF3E1BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA3E131-0099-1ADF-9DBE-28C8DF3E1BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA3E131-0099-1ADF-9DBE-28C8DF3E1BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928B76A1-1C20-B20A-1830-0859B1473DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928B76A1-1C20-B20A-1830-0859B1473DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928B76A1-1C20-B20A-1830-0859B1473DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928B76A1-1C20-B20A-1830-0859B1473DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF616587-2204-7FDC-60C5-0C6BF2C37FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF616587-2204-7FDC-60C5-0C6BF2C37FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF616587-2204-7FDC-60C5-0C6BF2C37FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF616587-2204-7FDC-60C5-0C6BF2C37FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36A49DD-F3D4-562E-A1CB-6ED2DCD97241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36A49DD-F3D4-562E-A1CB-6ED2DCD97241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36A49DD-F3D4-562E-A1CB-6ED2DCD97241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36A49DD-F3D4-562E-A1CB-6ED2DCD97241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6800202F-4402-D405-F8CB-03DC7BD78B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6800202F-4402-D405-F8CB-03DC7BD78B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6800202F-4402-D405-F8CB-03DC7BD78B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6800202F-4402-D405-F8CB-03DC7BD78B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
